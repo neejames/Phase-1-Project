@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+  <head>
+    <meta charset="utf-8">
+    <title>Rick and Morty Characters</title>
+    <link rel="stylesheet" href="style.css" />
+    <script defer type="text/javascript" src='index.js'></script>
+  </head>
+  <body>
+    <div id="rick-and-morty-header">
+      <h2>Rick and Morty Character Search</h2>
+      <form id='rick-and-morty-search'>
+          <input id='character-name' type='text' placeholder="Enter character name">
+          <select id="status-filter">
+            <option value="">All</option>
+            <option value="Alive">alive</option>
+            <option value="Dead">dead</option>
+            <option value="Unknown">unknown</option>
+          </select>
+          <button type="submit">Search</button>
+      </form>
+    </div>
+    <div id='character-name'>
+      <ul id='character-container'>
+      </ul>
+    </div>
+</body>
+</html>
