@@ -1,19 +1,16 @@
 {
-  "posts": [
+  "characters": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "name": "Rick Sanchez",
+      "status": "Alive",
+      "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 2,
+  "name": "Morty Smith",
+  "status":"Alive",
+  "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
