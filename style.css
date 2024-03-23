@@ -28,6 +28,6 @@ body {
     list-style: none;
 }
 .card li {
-    margin-bottom: 5px;
+    margin-top: 0;
     text-align: center;
 }
