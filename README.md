@@ -16,9 +16,9 @@ To get started with this project follow these steps:
 
 ## Features
 
-*Search for characters by name. You can enter in part of a name or to narrow down results, you can enter a first and last name.
-*Filter characters based on their status: Alive, Dead, or Unknown.
-*Displacy characters details, including their image and a list of episodes that character was in.
+* Search for characters by name. You can enter in part of a name or to narrow down results, you can enter a first and last name.
+* Filter characters based on their status: Alive, Dead, or Unknown.
+* Displacy characters details, including their image and a list of episodes that character was in.
 
 ## Resources
 
